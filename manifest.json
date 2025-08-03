@@ -1,6 +1,6 @@
 {
-  "short_name": "Add Texts To Image",
-  "name": "Add Texts To Image and Manage Texts",
+  "short_name": "Face Tag",
+  "name": "Automation Tag Face in Image",
   "icons": [
     {
       "src": "favicon.ico",
